@@ -9,10 +9,10 @@ void setup() {
 void loop() {
   // Set the cursor on the third column and the first row, counting starts at 0:
   lcd.setCursor(2, 0);
-  // Print the string 'Hello World!':
-  lcd.print("Hello World!");
+  // Print the string 'Hello fellow coders':
+  lcd.print("Hello fellow coders");
   // Set the cursor on the third column and the second row:
   lcd.setCursor(2, 1);
-  // Print the string 'LCD tutorial':
-  lcd.print("LCD tutorial");
+  // Print the string 'Tripleace Code':
+  lcd.print("Tripleace Code");
 }
